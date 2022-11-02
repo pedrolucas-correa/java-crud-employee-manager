@@ -1,6 +1,6 @@
-# CRUD Employee Manager
+# Employee Manager - CRUD
 
-Spring Boot application to manage employees
+Backend application with spring boot to manage employees
 
 * Java - Spring Boot
 * Angular
